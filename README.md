@@ -1,2 +1,2 @@
 # introduction-r
-Analyse quantitative avec R
+Introduction à l'analyse quantitative avec R
